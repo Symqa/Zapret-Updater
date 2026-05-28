@@ -1,0 +1,3 @@
+Zapret Updater
+
+version: 1.0v (07.05.2026)
